@@ -17,7 +17,7 @@
       * [2. Öznitelik Çıkarımı (Feature Extraction)](#)
       * [3. Model Oluştur (Create Model)](#)
 ---
-## Doğal Dil İşleme (Natural Language Processing - NLP) Nedir?
+## Doğal Dil İşleme Nedir? (What is Natural Language Processing - NLP)
 Doğal Dil İşleme (Natural Language Processing - NLP), bilgisayarların insan dilini anlaması, yorumlaması ve üretmesi için geliştirilen yöntem ve teknikleri kapsayan bir alandır. NLP, dilbilim, bilgisayar bilimi ve yapay zeka alanlarının kesişiminde yer alır ve insanların yazılı veya sözlü dilini analiz ederek çeşitli uygulamalarda kullanmayı amaçlar.
 
 ![image](https://github.com/elifbeyzatok00/Natural-Language-Processing/assets/102792446/dc99c22c-025a-403f-b47c-a3d0e844da55)
