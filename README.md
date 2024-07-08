@@ -2,9 +2,9 @@
 
 ### İçindekiler 📄
 
-1. [Doğal Dil İşleme (Natural Language Processing - NLP) Nedir?](#)
-  - [NLP'nin Temel Bileşenleri](#)
-  - [NLP'nin Kullanım Alanları](#)
+1. [Doğal Dil İşleme Nedir? (What is Natural Language Processing - NLP)](#)
+  - [NLP'nin Temel Bileşenleri (Basic Components of NLP)](#)
+  - [NLP'nin Kullanım Alanları (Areas of Use of NLP)](#)
 2. [NLP Proje Örneği (NLP Project Example)](#)
   - [Türkçe Metinlerde Duygu Analizi ve Konu Çıkarımı (Sentiment Analysis and Topic Inference in Turkish Texts)](#)
       * [Adımlar (Steps)](#)
@@ -19,7 +19,7 @@ Doğal Dil İşleme (Natural Language Processing - NLP), bilgisayarların insan 
 
 ![image](https://github.com/elifbeyzatok00/Natural-Language-Processing/assets/102792446/dc99c22c-025a-403f-b47c-a3d0e844da55)
 
-### NLP'nin Temel Bileşenleri
+### NLP'nin Temel Bileşenleri (Basic Components of NLP)
 
 1. **Metin Önişleme (Text Preprocessing)**
    - **Tokenization (Kelime Ayrıştırma):** Metni kelimelere veya cümlelere bölme.
@@ -50,7 +50,7 @@ Doğal Dil İşleme (Natural Language Processing - NLP), bilgisayarların insan 
 
 ![image](https://github.com/elifbeyzatok00/Natural-Language-Processing/assets/102792446/12cdce1e-2b5c-4b8a-910a-7dc6926bb39a)
 
-### NLP'nin Kullanım Alanları
+### NLP'nin Kullanım Alanları (Areas of Use of NLP)
 
 - **Arama Motorları:** Kullanıcı sorgularını anlama ve ilgili sonuçları getirme.
 - **Sosyal Medya Analizi:** Kullanıcıların duygu durumlarını ve trendleri analiz etme.
