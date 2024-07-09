@@ -1,4 +1,4 @@
-# Natural-Language-Processing
+# Sentiment Analysis and Topic Extraction in Turkish Texts
 
 ### İçindekiler 📄
 
