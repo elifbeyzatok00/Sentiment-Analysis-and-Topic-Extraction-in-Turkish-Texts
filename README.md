@@ -1,6 +1,7 @@
 # Sentiment Analysis and Topic Extraction in Turkish Texts
+What is Natural Language Processing (NLP) & NLP Project Example
 
-### İçindekiler 📄
+## Table of Contents 🗒️
 
 1. [Doğal Dil İşleme Nedir? (What is Natural Language Processing - NLP)](#)
   - [NLP'nin Temel Bileşenleri (Basic Components of NLP)](#)
