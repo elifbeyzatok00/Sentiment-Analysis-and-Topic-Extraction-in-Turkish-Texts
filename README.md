@@ -134,18 +134,10 @@ Bu proje, Türkçe metinleri analiz ederek duygu ve konu çıkarımları yaparak
 
 ## 👩🏻‍💻Proje Kodları (Project Codes)
 
-### 📑 Proje Detayları (Project Details)
+ 0. Proje Detayları (Project Details) -> [`NLP-PROJECT.docx`](https://github.com/elifbeyzatok00/Natural-Language-Processing/blob/main/0-NLP-PROJECT.docx)
 
-🔗[NLP-PROJECT.docx](https://github.com/elifbeyzatok00/Natural-Language-Processing/blob/main/0-NLP-PROJECT.docx)
+ 1. Veri Ön İsleme (Data Pre-Processing) -> [`Veri On Isleme.ipynb`](https://github.com/elifbeyzatok00/Natural-Language-Processing/blob/main/1-Veri%20On%20Isleme.ipynb)
 
-### 1. Veri Ön İsleme (Data Pre-Processing)
+ 2. Öznitelik Çıkarımı (Feature Extraction) -> [`OznitelikCikarimi.ipynb`](https://github.com/elifbeyzatok00/Natural-Language-Processing/blob/main/2-OznitelikCikarimi.ipynb)
 
-🔗[Veri On Isleme.ipynb](https://github.com/elifbeyzatok00/Natural-Language-Processing/blob/main/1-Veri%20On%20Isleme.ipynb)
-
-### 2. Öznitelik Çıkarımı (Feature Extraction)
-
-🔗[OznitelikCikarimi.ipynb](https://github.com/elifbeyzatok00/Natural-Language-Processing/blob/main/2-OznitelikCikarimi.ipynb)
-
-### 3. Model Oluştur (Create Model)
-
-🔗[Model.ipynb](https://github.com/elifbeyzatok00/Natural-Language-Processing/blob/main/3-Model.ipynb)
+ 3. Model Oluştur (Create Model) -> [`Model.ipynb`](https://github.com/elifbeyzatok00/Natural-Language-Processing/blob/main/3-Model.ipynb)
