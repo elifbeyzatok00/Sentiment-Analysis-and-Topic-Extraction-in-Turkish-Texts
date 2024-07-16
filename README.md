@@ -13,7 +13,7 @@ What is Natural Language Processing (NLP) & NLP Project Example
       * [Sonuçlar ve Öneriler (Results and Recommendations)](#)
       * [Örnek Referans Makale (Sample Reference Paper)](#)
   - [Proje Kodları (Project Codes)](#)
-      * [Proje Detayları (Project Details)](#)
+      * [0. Proje Detayları (Project Details)](#)
       * [1. Veri Ön İsleme (Data Pre-Processing)](#)
       * [2. Öznitelik Çıkarımı (Feature Extraction)](#)
       * [3. Model Oluştur (Create Model)](#)
