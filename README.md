@@ -12,7 +12,7 @@ What is Natural Language Processing (NLP) & NLP Project Example
       * [Araçlar ve Kütüphaneler (Tools and Libraries)](#)
       * [Sonuçlar ve Öneriler (Results and Recommendations)](#)
       * [Örnek Referans Makale (Sample Reference Paper)](#)
-  - [Proje Kodları (Project Codes)](#)
+  - [Proje Dosyaları (Project Files)](#)
       * [0. Proje Detayları (Project Details)](#)
       * [1. Veri Ön İsleme (Data Pre-Processing)](#)
       * [2. Öznitelik Çıkarımı (Feature Extraction)](#)
@@ -132,12 +132,12 @@ Bu proje, Türkçe metinleri analiz ederek duygu ve konu çıkarımları yaparak
 - **A Comprehensive Analysis of Static Word Embeddings for Turkish** (Sarıtaş ve diğ. 2023)
 
 
-## 👩🏻‍💻Proje Kodları (Project Codes)
+## 👩🏻‍💻Proje Dosyaları (Project Files)
 
- 0. Proje Detayları (Project Details) -> [`NLP-PROJECT.docx`](https://github.com/elifbeyzatok00/Natural-Language-Processing/blob/main/0-NLP-PROJECT.docx)
+| **File**                                          | **Link**                                                                                                                           |
+|---------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|
+| **0. Proje Detayları (Project Details)**          | [NLP-PROJECT.docx](https://github.com/elifbeyzatok00/Natural-Language-Processing/blob/main/0-NLP-PROJECT.docx)                     |
+| **1. Veri Ön İşleme (Data Pre-Processing)**       | [Veri On Isleme.ipynb](https://github.com/elifbeyzatok00/Natural-Language-Processing/blob/main/1-Veri%20On%20Isleme.ipynb)         |
+| **2. Öznitelik Çıkarımı (Feature Extraction)**    | [OznitelikCikarimi.ipynb](https://github.com/elifbeyzatok00/Natural-Language-Processing/blob/main/2-OznitelikCikarimi.ipynb)       |
+| **3. Model Oluştur (Create Model)**               | [Model.ipynb](https://github.com/elifbeyzatok00/Natural-Language-Processing/blob/main/3-Model.ipynb)                               |
 
- 1. Veri Ön İsleme (Data Pre-Processing) -> [`Veri On Isleme.ipynb`](https://github.com/elifbeyzatok00/Natural-Language-Processing/blob/main/1-Veri%20On%20Isleme.ipynb)
-
- 2. Öznitelik Çıkarımı (Feature Extraction) -> [`OznitelikCikarimi.ipynb`](https://github.com/elifbeyzatok00/Natural-Language-Processing/blob/main/2-OznitelikCikarimi.ipynb)
-
- 3. Model Oluştur (Create Model) -> [`Model.ipynb`](https://github.com/elifbeyzatok00/Natural-Language-Processing/blob/main/3-Model.ipynb)
