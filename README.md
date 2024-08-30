@@ -1,5 +1,4 @@
 # Sentiment Analysis and Topic Extraction in Turkish Texts
-What is Natural Language Processing (NLP) & NLP Project Example
 
 ## Table of Contents 🗒️
 
